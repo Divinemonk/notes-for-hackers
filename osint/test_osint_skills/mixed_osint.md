@@ -1,10 +1,22 @@
-Q1)  In this article ( https://patch.com/california/pleasanton/kobe-bryant-honored-115-foot-tribute-pleasanton-field ) a undisclosed field had a mural of Kobe Bryant cut into it. Which field is this?
-Q2)  On November 27 2005 the website Hak5.org posted in their Poles section: "Episode 4: What was your favorite segment?" what was the 3rd option?
-Q3)  How many large air conditioner units are on the roof of the Florida Best Buy: 33590 S Dixie Hwy, Florida City, FL 33034
-Q4)  What is Dwayne The Rock Johnson's Facebook ID number?
-Q5)  Bill Gates (formerly of Microsoft). What is his full name and date of birth?
-Q6)  What was the value of this home ( 41 Miraloma Dr, San Francisco, CA 94127 ) in September 2015? (Zillow estimate)
-Q7)  Who's phone number is (786) 349-6446 and is it a LAN line, cell number or VOIP?
-Q8)  Which state is this phone number from? (786) 349-6446
-Q9)  The company MIDAS LEAGUE, INC. in San Francisco California. What is the filing status of said company on: 02/03/2016?
-Q10) In OSINT we use sock puppet (burner accounts) when we perform searches for the following reason(s).
+## Mixed-type of questions
+
+
+1.  In this [article](https://patch.com/california/pleasanton/kobe-bryant-honored-115-foot-tribute-pleasanton-field) a undisclosed field had a _mural_ of __Kobe Bryant__ cut into it. Which field is this?
+
+2.  On _November 27 2005_ the website __Hak5.org__ posted in their Poles section: "_Episode 4: What was your favorite segment?_" what was the 3rd option?
+
+3.  How many large air conditioner units are on the roof of the `Florida Best Buy: 33590 S Dixie Hwy, Florida City, FL 33034`
+
+4.  What is __Dwayne The Rock Johnson's__ _Facebook ID number_?
+
+5.  __Bill Gates__ (formerly of Microsoft). What is his _full name_ and _date of birth_?
+
+6.  What was the value of this home `41 Miraloma Dr, San Francisco, CA 94127`), in September 2015? (_Zillow estimate_)
+
+7.  Who's phone number is _(786) 349-6446_ and is it a _LAN line_, _cell number_ or _VOIP_?
+
+8.  Which state is this phone number from? _(786) 349-6446_
+
+9.  The company __MIDAS LEAGUE, INC. in San Francisco California__. What is the _filing status_ of said company on: _02/03/2016_?
+
+10. In OSINT we use _sock puppet_ (burner accounts) when we perform searches for what reason(s)?
