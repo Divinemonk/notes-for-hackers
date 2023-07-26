@@ -1,4 +1,4 @@
-# Test your Osint skills!
+# Test your `osint` skills!
 > Follow the sequence for better learning curve
 
 
