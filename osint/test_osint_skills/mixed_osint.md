@@ -17,6 +17,6 @@
 
 8.  Which state is this phone number from? `(786) 349-6446`
 
-9.  The company __MIDAS LEAGUE, INC. in San Francisco California__. What is the _filing status_ of said company on: _02/03/2016_?
+9.  The company `MIDAS LEAGUE, INC. in San Francisco California`. What is the _filing status_ of said company on: _02/03/2016_?
 
 10. In OSINT we use _sock puppet_ (burner accounts) when we perform searches for what reason(s)?
