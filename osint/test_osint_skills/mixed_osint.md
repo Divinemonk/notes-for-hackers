@@ -3,7 +3,7 @@
 
 1.  In this [article](https://patch.com/california/pleasanton/kobe-bryant-honored-115-foot-tribute-pleasanton-field) a undisclosed field had a _mural_ of __Kobe Bryant__ cut into it. Which field is this?
 
-2.  On _November 27 2005_ the website __Hak5.org__ posted in their Poles section: "_Episode 4: What was your favorite segment?_" what was the 3rd option?
+2.  On _November 27 2005_ the website __Hak5.org__ posted in their Poles section: `Episode 4: What was your favorite segment?` what was the 3rd option?
 
 3.  How many large air conditioner units are on the roof of the `Florida Best Buy: 33590 S Dixie Hwy, Florida City, FL 33034`
 
