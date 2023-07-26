@@ -14,8 +14,8 @@
 
 ## Questions
 
-1. When was this building opened?
+1. When was this building _opened_?
 
-2. Where is this building located?
+2. Where is this building _located_?
 
-3. What is the name of this building?
+3. What is the _name_ of this building?
