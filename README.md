@@ -3,6 +3,6 @@ Study material (pdfs, notes, free course download links etc) for HACKERS
 
 <br>
 
-- [Bug Bounty - pdfs](/bugbounty-pdfs)
-- [Osint](/osint)
-- [Test your osint skills](/osint/test_osint_skills/main.md)
+- [Bug Bounty (pdfs)](/bugbounty-pdfs)
+- [Osint](/osint) (Open Source Intelligence)
+- [Test your osint skills](/osint/test_osint_skills/README.md)
