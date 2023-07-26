@@ -13,9 +13,9 @@
 
 6.  What was the value of this home `41 Miraloma Dr, San Francisco, CA 94127`), in September 2015? (_Zillow estimate_)
 
-7.  Who's phone number is _(786) 349-6446_ and is it a _LAN line_, _cell number_ or _VOIP_?
+7.  Who's phone number is `(786) 349-6446` and is it a _LAN line_, _cell number_ or _VOIP_?
 
-8.  Which state is this phone number from? _(786) 349-6446_
+8.  Which state is this phone number from? `(786) 349-6446`
 
 9.  The company __MIDAS LEAGUE, INC. in San Francisco California__. What is the _filing status_ of said company on: _02/03/2016_?
 
