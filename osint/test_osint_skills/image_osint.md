@@ -8,7 +8,7 @@
 <br>
 
 ## Image
-![view building image](image_osint.jpg)
+![building image](image_osint.jpg)
 
 <br>
 
