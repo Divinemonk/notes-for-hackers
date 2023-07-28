@@ -2,10 +2,7 @@
 
 Welcome to "Notes for Hackers," a comprehensive collection of study material for aspiring hackers and cybersecurity enthusiasts. This repository contains a vast array of PDFs, notes, cheat sheets, and more, covering various domains related to hacking, cybersecurity, and penetration testing. Whether you're a beginner taking your first steps into the world of cybersecurity or an experienced hacker looking to enhance your skills, this repository has something for everyone.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4159af20bb09591ed062b506a8a841e7c8e29ea3
+
 ## File Tree
 
 - [notes-for-hackers](./)
@@ -114,30 +111,15 @@ Welcome to "Notes for Hackers," a comprehensive collection of study material for
   │   └── [Penetration Testing Execution Standard (PTES).pdf](./other-resources/Penetration%20Testing%20Execution%20Standard%20(PTES).pdf)
   └── [README.md](./README.md)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 4159af20bb09591ed062b506a8a841e7c8e29ea3
 ## How to Contribute
 
 This repository is open to contributions from the community. If you have any study material related to hacking, cybersecurity, or any other relevant topic, feel free to submit a pull request. Let's build a valuable resource together for all hackers and enthusiasts!
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 4159af20bb09591ed062b506a8a841e7c8e29ea3
 ## License
 
 This repository is distributed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the material with proper attribution.
 
-<<<<<<< HEAD
 
 > Happy hacking!
-=======
-- [Bug Bounty (pdfs)](/bugbounty-pdfs)
-- [Osint](/osint) (Open Source Intelligence)
-- [Test your osint skills](/test_skills/README.md)
->>>>>>> 8e6c7bfc455d85f98119a292cfc9b7155cd3c5cf
-=======
-> Happy hacking!
->>>>>>> 4159af20bb09591ed062b506a8a841e7c8e29ea3
