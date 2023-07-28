@@ -1,0 +1,45 @@
+This is a quick reference guide for the Linux Terminal:
+
+# Remember, administrator commands will require sudo. Example: sudo apt-get update
+# Remember, Linux is case sensitive!
+
+<tab> allows auto complete
+
+<Up arrow> <This will pull up previously used commands>
+
+sudo <run command as an administrator>
+
+ls <lost content in current directory>
+
+cd <Change directory. Example cd Desktop>
+
+ifconfig <Network configuration>
+
+ping <ping command. Example ping google.com>
+
+<Stop ping> Ctrl+c
+
+sudo apt-get update <Search for updates>
+
+sudo apt-get upgrade <Run after update, will install updated files>
+
+sudo apt-get update && sudo apt-get upgrade <The same as both commands>
+
+help <Help command if available>
+
+git clone www.reconhound.com <downloads file from Github>
+
+sudo apt-get install audacity <Installs audacity from repository, if available>
+
+sudo apt-get remove audacity <Uninstalls Audacity>
+
+./audacity <Runs program, you must be in the program's directory>
+
+sudo chmod +x audacity <Makes a file execuable if locked>
+
+python recondog.py <Programs with a .py extention are Python programs, will launch recondog in this example)
+
+exit <Exit's the terminal>
+
+
+Additional commands: https://www.pcsteps.com/5010-basic-linux-commands-terminal/

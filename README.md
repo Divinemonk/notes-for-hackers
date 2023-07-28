@@ -2,6 +2,7 @@
 
 Welcome to "Notes for Hackers," a comprehensive collection of study material for aspiring hackers and cybersecurity enthusiasts. This repository contains a vast array of PDFs, notes, cheat sheets, and more, covering various domains related to hacking, cybersecurity, and penetration testing. Whether you're a beginner taking your first steps into the world of cybersecurity or an experienced hacker looking to enhance your skills, this repository has something for everyone.
 
+<<<<<<< HEAD
 ## File Tree
 
 - [notes-for-hackers](./)
@@ -122,3 +123,8 @@ This repository is distributed under the [MIT License](LICENSE), which means you
 
 
 > Happy hacking!
+=======
+- [Bug Bounty (pdfs)](/bugbounty-pdfs)
+- [Osint](/osint) (Open Source Intelligence)
+- [Test your osint skills](/test_skills/README.md)
+>>>>>>> 8e6c7bfc455d85f98119a292cfc9b7155cd3c5cf
