@@ -4,6 +4,7 @@ Welcome to "Notes for Hackers," a comprehensive collection of study material for
 
 <br>
 
+<!--
 ## File Tree
 
 - [notes-for-hackers](./)  
@@ -318,8 +319,9 @@ Welcome to "Notes for Hackers," a comprehensive collection of study material for
   │   └── [README.md](./test_skills/osint_test-1/README.md)  
   └── [More coming soon](./test_skills/osint_test-1)  
 
-
 <br>
+
+-->
 
 ## How to Contribute
 
@@ -330,5 +332,7 @@ This repository is open to contributions from the community. If you have any stu
 ## License
 
 This repository is distributed under the [MIT License](LICENSE)  , which means you are free to use, modify, and distribute the material with proper attribution.
+
+<br>
 
 > Happy hacking!
